@@ -33,7 +33,7 @@ body {
     max-width: 144rem;
     margin: 0 auto;
     min-height: 100vh;
-    background-image: url("/images/pattern-background-desktop.svg");
+    background-image: url("./images/pattern-background-desktop.svg");
     background-color: var(--primary-blue-white);
     background-position: top center;
     background-repeat: no-repeat;
